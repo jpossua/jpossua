@@ -16,36 +16,36 @@
 > Aquí están las tecnologías que estoy aprendiendo, dominando y ya domino. Porque hasta el ratón más curioso sabe que el buen código solo se hace dominando sus herramientas, siempre bien afiladas.
 
 <p align="center">
-<img height="50em" src="img/visual-studio-code.svg" alt="VS_Code" />
-<img height="50em" src="img/eclipse.svg" alt="Eclipse"/>
-<img height="50em" src="img/netbeans.svg" alt="Netbeans"/>
-<img height="50em" src="img/notepadplusplus.svg" alt="Notepad++"/>
-<img height="50em" src="img/krita.svg" alt="Krita"/>
-<img height="50em" src="img/photoshop.svg" alt="Photoshop"/>
-<img height="50em" src="img/html5.svg" alt="HTML5"/>
-<img height="50em" src="img/css3.svg" alt="CSS3"/>
-<img height="50em" src="img/javascript.svg" alt="JavaScript_(JS)"/>
-<img height="50em" src="img/react.svg" alt="React"/>
+<img height="50em" src="img/visual-studio-code.svg" alt="VS_Code" />&nbsp;&nbsp;
+<img height="50em" src="img/eclipse.svg" alt="Eclipse"/>&nbsp;&nbsp;
+<img height="50em" src="img/netbeans.svg" alt="Netbeans"/>&nbsp;&nbsp;
+<img height="50em" src="img/notepadplusplus.svg" alt="Notepad++"/>&nbsp;&nbsp;
+<img height="50em" src="img/krita.svg" alt="Krita"/>&nbsp;&nbsp;
+<img height="50em" src="img/photoshop.svg" alt="Photoshop"/>&nbsp;&nbsp;
+<img height="50em" src="img/html5.svg" alt="HTML5"/>&nbsp;&nbsp;
+<img height="50em" src="img/css3.svg" alt="CSS3"/>&nbsp;&nbsp;
+<img height="50em" src="img/javascript.svg" alt="JavaScript_(JS)"/>&nbsp;&nbsp;
+<img height="50em" src="img/react.svg" alt="React"/>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img height="50em" src="img/nodejs02.svg" alt="NodeJS"/>
-<img height="50em" src="img/vuejs.svg" alt="VueJS"/>
-<img height="50em" src="img/php01.svg" alt="PHP"/>
-<img height="50em" src="img/laravel.svg" alt="Laravel"/>
-<img height="50em" src="img/mysql.svg" alt="MySQL"/>
-<img height="50em" src="img/java.svg" alt="Java"/>
-<img height="50em" src="img/python.svg" alt="Python"/>
-<img height="50em" src="img/django.svg" alt="Django"/>
-<img height="50em" src="img/bootstrap.svg" alt="Bootstrap"/>
-<img height="50em" src="img/markdown.svg" alt="Markdown"/>
+<img height="50em" src="img/nodejs02.svg" alt="NodeJS"/>&nbsp;&nbsp;
+<img height="50em" src="img/vuejs.svg" alt="VueJS"/>&nbsp;&nbsp;
+<img height="50em" src="img/php01.svg" alt="PHP"/>&nbsp;&nbsp;
+<img height="50em" src="img/laravel.svg" alt="Laravel"/>&nbsp;&nbsp;
+<img height="50em" src="img/mysql.svg" alt="MySQL"/>&nbsp;&nbsp;
+<img height="50em" src="img/java.svg" alt="Java"/>&nbsp;&nbsp;
+<img height="50em" src="img/python.svg" alt="Python"/>&nbsp;&nbsp;
+<img height="50em" src="img/django.svg" alt="Django"/>&nbsp;&nbsp;
+<img height="50em" src="img/bootstrap.svg" alt="Bootstrap"/>&nbsp;&nbsp;
+<img height="50em" src="img/markdown.svg" alt="Markdown"/>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img height="50em" src="img/apache.svg" alt="Apache"/>
-<img height="50em" src="img/docker.svg" alt="Docker"/>
-<img height="50em" src="img/git.svg" alt="Git"/>
-<img height="50em" src="img/github.svg" alt="Github"/>
+<img height="50em" src="img/apache.svg" alt="Apache"/>&nbsp;&nbsp;
+<img height="50em" src="img/docker.svg" alt="Docker"/>&nbsp;&nbsp;
+<img height="50em" src="img/git.svg" alt="Git"/>&nbsp;&nbsp;
+<img height="50em" src="img/github.svg" alt="Github"/>&nbsp;&nbsp;
 </p>
 
 ---
