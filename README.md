@@ -15,8 +15,38 @@
 
 > Aquí están las tecnologías que estoy aprendiendo, dominando y ya domino. Porque hasta el ratón más curioso sabe que el buen código solo se hace dominando sus herramientas, siempre bien afiladas.
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Antigravity](https://img.shields.io/badge/antigravity-%23EA4335.svg?style=for-the-badge&logo=google&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<p align="center">
+<img height="50em" src="img/visual-studio-code.svg" style="filter: brightness(0) invert(0.9);" alt="VS_Code" />
+<img height="50em" src="img/eclipse.svg" style="filter: brightness(0) invert(0.9);" alt="Eclipse"/>
+<img height="50em" src="img/netbeans.svg" style="filter: brightness(0) invert(0.9);"  alt="Netbeans"/>
+<img height="50em" src="img/notepadplusplus.svg" style="filter: brightness(0) invert(0.9);"  alt="Notepad++"/>
+<img height="50em" src="img/krita.svg" style="filter: brightness(0) invert(0.9);"  alt="Krita"/>
+<img height="50em" src="img/photoshop.svg" style="filter: brightness(0) invert(0.9);"  alt="Photoshop"/>
+<img height="50em" src="img/html5.svg" style="filter: brightness(0) invert(0.9);"  alt="HTML5"/>
+<img height="50em" src="img/css3.svg" style="filter: brightness(0) invert(0.9);"  alt="CSS3"/>
+<img height="50em" src="img/javascript.svg" style="filter: brightness(0) invert(0.9);"  alt="JavaScript_(JS)"/>
+<img height="50em" src="img/react.svg" style="filter: brightness(0) invert(0.9);" alt="React"/>
+</p>
 
+<p align="center">
+<img height="50em" src="img/nodejs02.svg" style="filter: brightness(0) invert(0.9);" alt="NodeJS"/>
+<img height="50em" src="img/vuejs.svg" style="filter: brightness(0) invert(0.9);" alt="VueJS"/>
+<img height="50em" src="img/php01.svg" style="filter: brightness(0) invert(0.9);" alt="PHP"/>
+<img height="50em" src="img/laravel.svg" style="filter: brightness(0) invert(0.9);" alt="Laravel"/>
+<img height="50em" src="img/mysql.svg" style="filter: brightness(0) invert(0.9);" alt="MySQL"/>
+<img height="50em" src="img/java.svg" style="filter: brightness(0) invert(0.9);" alt="Java"/>
+<img height="50em" src="img/python.svg" style="filter: brightness(0) invert(0.9);" alt="Python"/>
+<img height="50em" src="img/django.svg" style="filter: brightness(0) invert(0.9);" alt="Django"/>
+<img height="50em" src="img/bootstrap.svg" style="filter: brightness(0) invert(0.9);" alt="Bootstrap"/>
+<img height="50em" src="img/markdown.svg" style="filter: brightness(0) invert(0.9);" alt="Markdown"/>
+</p>
+
+<p align="center">
+<img height="50em" src="img/apache.svg" style="filter: brightness(0) invert(0.9);" alt="Apache"/>
+<img height="50em" src="img/docker.svg" style="filter: brightness(0) invert(0.9);" alt="Docker"/>
+<img height="50em" src="img/git.svg" style="filter: brightness(0) invert(0.9);" alt="Git"/>
+<img height="50em" src="img/github.svg" style="filter: brightness(0) invert(0.9);" alt="Github"/>
+</p>
 
 ---
 
@@ -40,10 +70,3 @@ Aquí están mis proyectos, mis stats… y mi evolución como dev.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpossua/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmapostigo@gmail.com )
-
-
-
-
-
-
-
