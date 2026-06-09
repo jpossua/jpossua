@@ -68,5 +68,7 @@ Aquí están mis proyectos, mis stats… y mi evolución como dev.
 > 
 > ¿Hablamos? 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpossua/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmapostigo@gmail.com )
+<p>
+<a href="https://www.linkedin.com/in/jpossua/"><img height="50em" src="img/linkedin.svg" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="mailto:jmapostigo@gmail.com"><img height="50em" src="img/gmail.svg" alt="Gmail"/></a>
+</p>
