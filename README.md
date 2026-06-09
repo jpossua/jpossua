@@ -69,6 +69,6 @@ Aquí están mis proyectos, mis stats… y mi evolución como dev.
 > ¿Hablamos? 
 
 <p>
-<a href="https://www.linkedin.com/in/jpossua/"><img height="50em" src="img/linkedin.svg" alt="linkedin"/></a>&nbsp;&nbsp;
-<a href="mailto:jmapostigo@gmail.com"><img height="50em" src="img/gmail.svg" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/jpossua/" target="_blank"><img height="50em" src="img/linkedin.svg" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="mailto:jmapostigo@gmail.com" target="_blank"><img height="50em" src="img/gmail.svg" alt="Gmail"/></a>
 </p>
