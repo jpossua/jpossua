@@ -16,36 +16,36 @@
 > Aquí están las tecnologías que estoy aprendiendo, dominando y ya domino. Porque hasta el ratón más curioso sabe que el buen código solo se hace dominando sus herramientas, siempre bien afiladas.
 
 <p align="center">
-<img height="50em" src="img/visual-studio-code.svg" style="filter: brightness(0) invert(0.9);" alt="VS_Code" />
-<img height="50em" src="img/eclipse.svg" style="filter: brightness(0) invert(0.9);" alt="Eclipse"/>
-<img height="50em" src="img/netbeans.svg" style="filter: brightness(0) invert(0.9);"  alt="Netbeans"/>
-<img height="50em" src="img/notepadplusplus.svg" style="filter: brightness(0) invert(0.9);"  alt="Notepad++"/>
-<img height="50em" src="img/krita.svg" style="filter: brightness(0) invert(0.9);"  alt="Krita"/>
-<img height="50em" src="img/photoshop.svg" style="filter: brightness(0) invert(0.9);"  alt="Photoshop"/>
-<img height="50em" src="img/html5.svg" style="filter: brightness(0) invert(0.9);"  alt="HTML5"/>
-<img height="50em" src="img/css3.svg" style="filter: brightness(0) invert(0.9);"  alt="CSS3"/>
-<img height="50em" src="img/javascript.svg" style="filter: brightness(0) invert(0.9);"  alt="JavaScript_(JS)"/>
-<img height="50em" src="img/react.svg" style="filter: brightness(0) invert(0.9);" alt="React"/>
+<img height="50em" src="img/visual-studio-code.svg" alt="VS_Code" />
+<img height="50em" src="img/eclipse.svg" alt="Eclipse"/>
+<img height="50em" src="img/netbeans.svg" alt="Netbeans"/>
+<img height="50em" src="img/notepadplusplus.svg" alt="Notepad++"/>
+<img height="50em" src="img/krita.svg" alt="Krita"/>
+<img height="50em" src="img/photoshop.svg" alt="Photoshop"/>
+<img height="50em" src="img/html5.svg" alt="HTML5"/>
+<img height="50em" src="img/css3.svg" alt="CSS3"/>
+<img height="50em" src="img/javascript.svg" alt="JavaScript_(JS)"/>
+<img height="50em" src="img/react.svg" alt="React"/>
 </p>
 
 <p align="center">
-<img height="50em" src="img/nodejs02.svg" style="filter: brightness(0) invert(0.9);" alt="NodeJS"/>
-<img height="50em" src="img/vuejs.svg" style="filter: brightness(0) invert(0.9);" alt="VueJS"/>
-<img height="50em" src="img/php01.svg" style="filter: brightness(0) invert(0.9);" alt="PHP"/>
-<img height="50em" src="img/laravel.svg" style="filter: brightness(0) invert(0.9);" alt="Laravel"/>
-<img height="50em" src="img/mysql.svg" style="filter: brightness(0) invert(0.9);" alt="MySQL"/>
-<img height="50em" src="img/java.svg" style="filter: brightness(0) invert(0.9);" alt="Java"/>
-<img height="50em" src="img/python.svg" style="filter: brightness(0) invert(0.9);" alt="Python"/>
-<img height="50em" src="img/django.svg" style="filter: brightness(0) invert(0.9);" alt="Django"/>
-<img height="50em" src="img/bootstrap.svg" style="filter: brightness(0) invert(0.9);" alt="Bootstrap"/>
-<img height="50em" src="img/markdown.svg" style="filter: brightness(0) invert(0.9);" alt="Markdown"/>
+<img height="50em" src="img/nodejs02.svg" alt="NodeJS"/>
+<img height="50em" src="img/vuejs.svg" alt="VueJS"/>
+<img height="50em" src="img/php01.svg" alt="PHP"/>
+<img height="50em" src="img/laravel.svg" alt="Laravel"/>
+<img height="50em" src="img/mysql.svg" alt="MySQL"/>
+<img height="50em" src="img/java.svg" alt="Java"/>
+<img height="50em" src="img/python.svg" alt="Python"/>
+<img height="50em" src="img/django.svg" alt="Django"/>
+<img height="50em" src="img/bootstrap.svg" alt="Bootstrap"/>
+<img height="50em" src="img/markdown.svg" alt="Markdown"/>
 </p>
 
 <p align="center">
-<img height="50em" src="img/apache.svg" style="filter: brightness(0) invert(0.9);" alt="Apache"/>
-<img height="50em" src="img/docker.svg" style="filter: brightness(0) invert(0.9);" alt="Docker"/>
-<img height="50em" src="img/git.svg" style="filter: brightness(0) invert(0.9);" alt="Git"/>
-<img height="50em" src="img/github.svg" style="filter: brightness(0) invert(0.9);" alt="Github"/>
+<img height="50em" src="img/apache.svg" alt="Apache"/>
+<img height="50em" src="img/docker.svg" alt="Docker"/>
+<img height="50em" src="img/git.svg" alt="Git"/>
+<img height="50em" src="img/github.svg" alt="Github"/>
 </p>
 
 ---
