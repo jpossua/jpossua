@@ -55,8 +55,8 @@
 Aquí están mis proyectos, mis stats… y mi evolución como dev.
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jpossua&show_icons=true&bg_color=fdf6e3&border_color=ddd&text_color=333&icon_color=ffb347&locale=es" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jpossua&layout=compact&show_icons=true&count_private=true&bg_color=fdf6e3&border_color=ddd&text_color=333&icon_color=ffb347&locale=es" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=jpossua&show_icons=true&bg_color=fdf6e3&border_color=ddd&text_color=333&icon_color=ffb347&locale=es" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jpossua&layout=compact&show_icons=true&count_private=true&bg_color=fdf6e3&border_color=ddd&text_color=333&icon_color=ffb347&locale=es" />
 </p>
 
 ---
